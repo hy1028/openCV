@@ -115,7 +115,7 @@ int main()
 	resizeWindow("image", 600, 300);
 	waitKey();
 	return 0;
-	//
+	// ////
 }
 #endif
 
